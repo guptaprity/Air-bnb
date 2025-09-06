@@ -15,7 +15,6 @@ A **full-stack Airbnb Clone** built with **React**, **Node.js**, **Express**, an
 - [⚙ Installation & Setup](#-installation--setup)
 - [🔐 Environment Variables](#-environment-variables)
 - [▶ Usage](#-usage)
-- [📸 Screenshots](#-screenshots)
 - [🔗 Live Demo](#-live-demo)
 - [🚀 Future Improvements](#-future-improvements)
 - [🤝 Contributing](#-contributing)
