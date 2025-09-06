@@ -119,8 +119,6 @@ Start frontend:
 cd client
 npm start
 ```
-
-
 🔗 Live Demo
 
 👉 https://airbnb-clone-tts5.onrender.com/listings
