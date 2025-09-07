@@ -85,7 +85,7 @@ airbnb-clone/
 
 ## ⚙ Installation & Setup
 
-### **1. Clone the Repository**
+## **1. Clone the Repository**
 ```bash
 git clone https://github.com/your-username/airbnb-clone.git
 cd airbnb-clone
